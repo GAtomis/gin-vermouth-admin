@@ -19,7 +19,7 @@
       key: 'authorityId',
     },
     {
-      title: '年龄',
+      title: '角色名称',
       dataIndex: 'authorityName',
       key: 'authorityName',
     },
